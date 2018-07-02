@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "989446840468",
+    "firebase_url": "https://vuforia-d468e.firebaseio.com",
+    "project_id": "vuforia-d468e",
+    "storage_bucket": "vuforia-d468e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:989446840468:android:c02930d659a0d0d0",
+        "android_client_info": {
+          "package_name": "com.vuforia.samples.VuforiaSamples"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "989446840468-mhvtnjkt2tfg88hsmqas8rg9ofit4vse.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vuforia.samples.VuforiaSamples",
+            "certificate_hash": "9fac6be5063a1fcafb476dc534661757ed0b2b5e"
+          }
+        },
+        {
+          "client_id": "989446840468-lcmhp1u4vr03ojjp6448tjej5ghsv10k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtUbkOAhHaaCN2UZwImlCSJ3FeLg8-k-U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "989446840468-lcmhp1u4vr03ojjp6448tjej5ghsv10k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
